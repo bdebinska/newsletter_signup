@@ -1,4 +1,4 @@
-public/.DS_Store
-public/package-lock.json
-public/Procfile
-node_modules
+/public/.DS_Store
+/public/package-lock.json
+/public/Procfile
+/node_modules
